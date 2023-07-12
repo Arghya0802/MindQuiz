@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:quiz_app/data/questions.dart';
 import 'package:quiz_app/question_summary.dart';
-import 'package:quiz_app/quiz.dart';
-import 'package:quiz_app/start_page.dart';
+// import 'package:quiz_app/quiz.dart';
 // import 'package:quiz_app/start_page.dart';
+// // import 'package:quiz_app/start_page.dart';
 // // import 'package:quiz_app/start_page.dart';
 
 class ResultsScreen extends StatelessWidget {
