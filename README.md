@@ -1,16 +1,25 @@
-# quiz_app
+# MindQuiz App  
 
-A new Flutter project.
+# Website link: https://mindquiz-6921a.web.app/#/
+
+The Quiz App is a mobile application built using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) that allows users to participate in quizzes and test their knowledge of Flutter. It offers an interactive and engaging quiz experience with multiple-choice questions, scoring, and feedback.
+
+## Features
+- Multipage App
+  
+- **Interactive Quiz Experience**: Users can select a quiz category and participate in quizzes featuring single-choice questions. The app provides a user-friendly interface for answering questions and submitting responses.
+
+- **Scoring and Feedback**: The app calculates and displays the user's score based on the number of correct answers.
+
+- **Results Summary**: After completing a quiz, users can view a detailed summary of their results, including the total score and the breakdown of correct and incorrect answers.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the Quiz App locally and start exploring its features, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Ensure you have Flutter installed on your machine. If not, refer to the [Flutter installation guide](https://flutter.dev/docs/get-started/install) to set up the Flutter development environment.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Clone this repository to your local machine using the following command:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```shell
+   git clone https://github.com/Arghya0802/MindQuiz.git
